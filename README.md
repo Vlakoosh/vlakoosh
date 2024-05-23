@@ -20,19 +20,6 @@ Here are some ideas to get you started:
 
 Born in Poland, now an ACS student at KdG University in Antwerp. I'm training to become a web developer and entrepreneur. My future goal is to build startups and work as a full-stack engineer. Sometimes in my free time I work on electronics, arduino, and programming projects that go into the low-level side of computers. I also love working out, cooking, making instrumental music, and reading books on finance/business, psychology, tech, and personal well-being.
 
-## 💼 Professional Experience
-**Web Developer**
-- Completed multiple JS/HTML/CSS courses and finished many personal projects
-- Created online tools that helped me during university classes and exams
-- Built many web apps integrating JavaScript code into HTML
-- Solved multiple Frontend Mentor challenges with HTML and CSS <br/>
-
-**Low-Level Programming**
-- Wrote an assembly to machine code compiler in Java
-- Designed and implemented my own esoteric programming language and web based interpreter
-- Built a 8x16 led display, wired it up with 4 shift registers, and ran my own C version of tetris on it
-- wrote AVR arduino libraries in C (from scratch) for: using button inputs, lighting up LEDS, creating tones with Piezo buzzer, and using 7 segment displays 
-
 ## 🛠️ Technical Skills
 
 ### Languages:
@@ -61,9 +48,20 @@ Born in Poland, now an ACS student at KdG University in Antwerp. I'm training to
 |----------|----------|----------|----------|----------|----------|-------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="Webstorm" alt="Webstorm" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="55" height="55"/>|
 
+<!--
+## 💼 Professional Experience
+**Web Developer**
+- Completed multiple JS/HTML/CSS courses and finished many personal projects
+- Created online tools that helped me during university classes and exams
+- Built many web apps integrating JavaScript code into HTML
+- Solved multiple Frontend Mentor challenges with HTML and CSS <br/>
 
-###Technologies: Linux terminal, cmd, Arduino/AVR
-
+**Low-Level Programming**
+- Wrote an assembly to machine code compiler in Java
+- Designed and implemented my own esoteric programming language and web based interpreter
+- Built a 8x16 led display, wired it up with 4 shift registers, and ran my own C version of tetris on it
+- wrote AVR arduino libraries in C (from scratch) for: using button inputs, lighting up LEDS, creating tones with Piezo buzzer, and using 7 segment displays 
+-->
 
 ## 💻 Projects
 
@@ -89,20 +87,22 @@ Born in Poland, now an ACS student at KdG University in Antwerp. I'm training to
 - Implemented a web based code interpreter for the language
 - Built tools for displaying code output (screen canvas and terminal)
 - Utilized Unit Tests with Jest for debuging and faster production
+# 
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=vlakoosh&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=vlakoosh&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlakoosh&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=vlakoosh&show_icons=true&theme=vision-friendly-dark"><img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlakoosh&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
+# 
+<!--
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=vlakoosh&style=for-the-badge&color=orange" alt=""/>
 </div>
-
-![Visitor Count](https://profile-counter.glitch.me/{vlakoosh}/count.svg)
-
-⭐️ From [Vlakoosh](https://github.com/vlakoosh)
+-->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{vlakoosh}/count.svg">
+</p>
