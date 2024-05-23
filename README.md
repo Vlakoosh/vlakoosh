@@ -65,23 +65,23 @@ Born in Poland, now an ACS student at KdG University in Antwerp. I'm training to
 
 ## 💻 Projects
 
-### "Wolfenstein 3d" clone with html canvas 🔫
+### ["Wolfenstein 3d" clone with html canvas 🔫](https://github.com/Vlakoosh/js-wolfenstein3d-clone)
 - Developed a real-time software rendering system in Javascript using "ray-casting" techniques 
 - Optimized graphics using buffers, preloaders, and custom Objects
 - Implemented faster environment creation using image editors and png files
 
-### Pseudo 3d racing game 🏎️
+### [Pseudo 3d racing game 🏎️](https://github.com/Vlakoosh/js-pseudo-3d-racing-game)
 - Created an entire pseudo 3d game without any 3d assets using only vanilla javascript
 - Improved refresh rate from 3fps to 150+fps using double-buffer optimization
 - Simulated perspective and paralax background using trigonometry and mathematical formulas
 
-### Custom Assembly compiler 🛠️
+### [Custom Assembly compiler 🛠️](https://github.com/Vlakoosh/moncky-2-java-interpreter)
 - Interpreted assembly instructions through tokenization and string slicing
 - Converted moncky-2 assembly into hexadecimal machine code through bit manipulation and concatenation
 - Built a simulated CPU to run moncky-2 assembly commands without the need for a phyical processor
 - Extended the compiler functionality by adding a built in syntax checker/linter
 
-### Esoteric Programming Language 😂
+### [Esoteric Programming Language 😂](https://github.com/Vlakoosh/x16joy)
 - Designed and planned an entire programming language infrastructure
 - Language uses only 😂 emoji and whitespace (btw)
 - Implemented a web based code interpreter for the language
