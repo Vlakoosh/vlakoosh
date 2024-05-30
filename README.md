@@ -28,23 +28,23 @@ Born in Poland, now an ACS student at KdG University in Antwerp. I'm training to
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>|
 
 ### Front-end: 
-| HTML | CSS | Tailwind | Bulma | 
+| HTML | CSS | ~~Tailwind~~ | Bulma | 
 |----------|----------|----------|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html"  alt="html" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="BulmaCSS" alt="BulmaCSS" width="55" height="55"/>|
 
 ### Back-end: 
-| Django | NodeJS | 
+| ~~Django~~ | NodeJS | 
 |--------|--------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django"  alt="django" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodeJS"  alt="nodeJS" width="55" height="55"/> |
 
 ### Database:
-| Mongo | MySQL | Postgres |
+| ~~Mongo~~ | MySQL | Postgres |
 |----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|
 
 ### Environments, Testing, Other:
 
-| NodeJS | Git | Docker | Jest | IntelliJ | Wstorm | VS Code |
+| NodeJS | Git | ~~Docker~~ | Jest | IntelliJ | Wstorm | VS Code |
 |----------|----------|----------|----------|----------|----------|-------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="Webstorm" alt="Webstorm" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="55" height="55"/>|
 
