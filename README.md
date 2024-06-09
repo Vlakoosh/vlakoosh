@@ -1,6 +1,7 @@
-## Hi, I'm Szymon👋
+# Hi, I'm Szymon👋
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=vlakoosh&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
+-->
 <!--
 **Vlakoosh/vlakoosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
