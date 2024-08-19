@@ -39,7 +39,7 @@ Born in Poland, now an ACS student at KdG University in Antwerp. I'm training to
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django"  alt="django" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodeJS"  alt="nodeJS" width="55" height="55"/> |
 
 ### Database:
-| ~~Mongo~~ | MySQL | Postgres |
+| Mongo | MySQL | Postgres |
 |----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|
 
