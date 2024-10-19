@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 About Me
 
-Born in Poland, now an ACS student at KdG University in Antwerp. I'm training to become a web developer and entrepreneur. My future goal is to build startups and work as a full-stack engineer. Sometimes in my free time I work on electronics, arduino, and programming projects that go into the low-level side of computers. I also love working out, cooking, making instrumental music, and reading books on finance/business, psychology, tech, and personal well-being.
+Born in Poland, now second year ACS student at KdG University in Antwerp. I'm training to become a back-end developer and entrepreneur. My future goal is to build software startups and work as a full-stack software engineer. Sometimes in my free time I work on electronics, arduino, and programming projects that go into the low-level side of computers. I also love working out, cooking, making instrumental music, and reading books on finance/business, psychology, tech, and personal well-being.
 
 ## 🛠️ Technical Skills
 
@@ -29,17 +29,17 @@ Born in Poland, now an ACS student at KdG University in Antwerp. I'm training to
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>|
 
 ### Front-end: 
-| HTML | CSS | ~~Tailwind~~ | Bulma | 
-|----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html"  alt="html" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="BulmaCSS" alt="BulmaCSS" width="55" height="55"/>|
+| HTML | CSS | Tailwind | Bootstrap | React |
+|----------|----------|----------|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html"  alt="html" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BulmaCSS" alt="BulmaCSS" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="55" height="55" alt="React"/>
 
 ### Back-end: 
-| ~~Django~~ | NodeJS | 
+| Spring | NodeJS | 
 |--------|--------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django"  alt="django" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodeJS"  alt="nodeJS" width="55" height="55"/> |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="django"  alt="django" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodeJS"  alt="nodeJS" width="55" height="55"/> |
 
 ### Database:
-| Mongo | MySQL | Postgres |
+| Mongo | MySQL | PostgreSQL |
 |----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|
 
