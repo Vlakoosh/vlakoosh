@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 About Me
 
-Born in Poland, now second year ACS student at KdG University in Antwerp. I'm training to become the best back-end developer world has seen. My future goal is to build reliable apps and work as a full-stack software engineer. In my free time, I work on IoT devices, and code projects about anything that I find challenging or interesting. I love working out, cooking, making instrumental music, and reading.
+Born in Poland, now second year ACS student at KdG University in Antwerp. I'm training to become the best back-end developer world has seen. My goal is to build reliable apps and work as a full-stack software engineer. In my free time, I work on IoT devices, and code projects about anything that I find challenging or interesting. I love working out, cooking, making instrumental music, and reading.
 
 ## 🛠️ Technical Skills
 
