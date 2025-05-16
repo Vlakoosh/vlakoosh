@@ -16,7 +16,7 @@ In my free time, I love challenging myself with new programming ideas, and divin
 ### 🧠 Frameworks & Libraries
 | Spring Boot | Node.js | Express.js | React | Thymeleaf | TailwindCSS |
 |-------------|---------|------------|--------|------------|--------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" height="45"/> | <img src="https://www.thymeleaf.org/images/thymeleaf.png" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/> |
 
 ### 🛢️ Databases & Tools
 | PostgreSQL | MariaDB | Git | Docker |
