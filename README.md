@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Szymon
 
-I'm a second-year Applied Computer Science student at KdG University in Antwerp — originally from Poland. I'm aiming to become a world-class back-end developer, and I'm currently building my way there by crafting reliable apps and exploring full-stack software engineering.
+I'm a second-year Applied Computer Science student at KdG University in Antwerp, originally from Poland. I'm aiming to become a world-class back-end developer, and I'm currently building my way there by coding reliable apps and exploring full-stack software engineering.
 
-In my free time, I love building IoT projects, challenging myself with new programming ideas, and diving deep into code. When I'm not at the keyboard, you'll probably find me at the gym, in the kitchen cooking something great, making music, or reading.
+In my free time, I love challenging myself with new programming ideas, and diving deep into code and documentation. When I'm not at the keyboard, you'll probably find me at the gym, in the kitchen cooking something, making music, or reading.
 
 ---
 
