@@ -24,32 +24,35 @@ In my free time, I love building IoT projects, challenging myself with new progr
 | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" height="45"/> |
 
 ---
-
 ## 💡 Projects
 
-### 🎯 [Wolfenstein 3D Clone](https://github.com/Vlakoosh/js-wolfenstein3d-clone)
-> A ray-casting 3D renderer in vanilla JS  
-- Real-time 3D engine built with ray-casting techniques  
-- Double-buffered rendering with optimized performance  
-- Map generation via PNG parsing for rapid prototyping
+### 🧠 [AI-Powered Code Practice App](https://github.com/Vlakoosh/code-practice-ai)
+> A platform to help computer science students practice coding with real-time AI feedback
+> MVP built in under 9 hours at a hackathon 
+- Tailored AI hints, XP system, and dynamic difficulty adaptation  
+- Clean TailwindCSS UI with gamified learning features  
+- Designed to support multiple languages and goal-based onboarding
+- Generates structured feedback and tests for coding tasks  
+- Focused on speed, clean UI/UX, and smart onboarding  
+- Tech stack: Spring Boot, TailwindCSS, DaisyUI, Thymeleaf, Javascript
 
-### 🏁 [Pseudo-3D Racing Game](https://github.com/Vlakoosh/js-pseudo-3d-racing-game)  
-> A 2.5D racing game built from scratch  
-- Trigonometric simulation of depth and perspective  
-- Performance-optimized to run over 150fps  
-- Parallax backgrounds and layered world simulation
+### 🎮 [3D Roguelike Dungeon Game (in progress)](https://github.com/Vlakoosh/js-roguelike-dungeon)
+> A retro-style roguelike built with raycasting in HTML canvas  
+- Engine simulates 3D-style graphics à la *Barony* and *Doom*  
+- Dynamic wall textures, transparent walls, and sprite rendering  
+- Inventory and combat UI built in HTML over canvas
 
-### 🛠️ [Custom Assembly Compiler](https://github.com/Vlakoosh/moncky-2-java-interpreter)  
-> Java-based compiler for a fictional CPU architecture  
-- Parses and compiles a custom assembly language  
-- Simulates CPU instructions with custom interpreter  
-- Implements a syntax checker and linter
+### 🔧 [Custom Assembly Compiler](https://github.com/Vlakoosh/moncky-2-java-interpreter)  
+> A learning project turned full CPU simulation  
+- Converts Muncky-2 assembly into machine code  
+- Features include a virtual CPU, syntax checker, and built-in linter  
+- Written in Java using bit manipulation and custom data structures
 
-### 😂 [Emoji-Based Esolang](https://github.com/Vlakoosh/x16joy)  
-> An esoteric language using only 😂 and whitespace  
-- Complete interpreter with web-based UI  
-- Executes canvas and terminal output  
-- Designed for fun, learning, and a bit of chaos
+### 😂 [Esoteric Emoji Language](https://github.com/Vlakoosh/x16joy)  
+> A joke gone too far – and ended up working  
+- Custom esolang with only 😂 and whitespace  
+- Includes a code editor, interpreter, and visual output  
+- Built for fun and learning language design
 
 ---
 
